@@ -1,3 +1,14 @@
+data
+.idea
+idea
+.ipynb_checkpoints
+
+.DS_Store
+*.mp3
+*.wav
+*.m4a
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
